@@ -1,7 +1,7 @@
 <br clear="both" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=435&lines=Welcome+to+ShouNLAK's+GitHub!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -83,18 +83,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<h3 align="center">🎮 Contribution Graph</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShouNLAK/ShouNLAK/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShouNLAK/ShouNLAK/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ShouNLAK/ShouNLAK/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
 ---
 
