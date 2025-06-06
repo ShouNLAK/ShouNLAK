@@ -1,119 +1,137 @@
-<br clear="both">
+<br clear="both" />
 
-<div align="center">
-  <img height="275" src="https://i.pinimg.com/1200x/fc/26/9f/fc269f05d0b1f4666aef0140a939ea7c.jpg"  />
-</div>
-
-###
-
-<p align="left">
-Hello there! 👋<br>
-I'm <strong>Nguyen Le Anh Khoa</strong>, a first-year Information Technology major at HCMC University of Industry and Trade (HUIT).<br><br>
-My passion for software engineering is matched only by my insatiable curiosity for the dynamic world of coding.<br><br>
-  
-<strong>About Me</strong><br>
-I currently study in the vibrant city of Ho Chi Minh City, Vietnam, where I immerse myself in the challenges and innovations of software engineering. I eagerly tackle new programming and technology projects, always striving to expand my horizons and deepen my expertise.<br><br>
-For a closer look at my academic journey and projects, feel free to explore my <a href="https://g.dev/ShouNLAK">Google for Developers profile</a>.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img height="220" src="https://th.bing.com/th/id/R.37721ff8b5855a2aaa8884df80056736?rik=SKewazvxRhZzNQ&pid=ImgRaw&r=0" alt="Additional Banner" />
+  <img height="220" src="https://i.pinimg.com/1200x/fc/26/9f/fc269f05d0b1f4666aef0140a939ea7c.jpg" alt="Profile Banner" />
+  <img height="220" src="https://th.bing.com/th/id/R.e54cd21f4828b6d7122250bd1a75bca9?rik=9VLwj1kBfciP5g&pid=ImgRaw&r=0" alt="Profile GIF" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShouNLAK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShouNLAK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=ShouNLAK&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<h2 align="center">Hi there! 👋</h2>
 
-###
+<p align="center">
+  <b>I'm Nguyen Le Anh Khoa</b>, a first-year Information Technology student at <a href="https://huit.edu.vn/" target="_blank">Ho Chi Minh City University of Industry and Trade (HUIT)</a>.<br>
+  🚀 Passionate about software engineering, always eager to learn and explore new technologies.<br>
+  📍 Based in Ho Chi Minh City, Vietnam.<br>
+  <a href="https://g.dev/ShouNLAK" target="_blank">Google for Developers profile</a><br>
+  <img src="https://profile-counter.glitch.me/ShouNLAK/count.svg?" alt="Profile Views" width="180" />
+  <br>
+  <b>👀 Profile Views</b>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShouNLAK/ShouNLAK/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShouNLAK/ShouNLAK/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShouNLAK/ShouNLAK/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+<h3 align="center">ℹ️ More About Me</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ShouNLAK/count.svg?"  />
-</div>
+<ul align="center">
+    <li>🌱 <b>Currently learning:</b> Data Structures, Algorithms, and Mobile App Development</li>
+  <li>💡 <b>Interests:</b> Open source, UI/UX design, and cloud computing</li>
+  <li>🗣️ <b>Languages:</b> Vietnamese (native), English (intermediate), Japanese (beginner)</li>
+  <li>🤝 <b>Looking to collaborate on:</b> Student projects, hackathons, science research</li>
+  <li>🎯 <b>2025 Goals:</b> Build an IPTV project, learn/practice new languages, master deep learning algorithms</li>
+</ul>
 
-###
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="http://facebook.com/ShouNLAK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="ShouNLAK@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/ShouNLAK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://vn.linkedin.com/in/anh-khoa-nguy%E1%BB%85n-l%C3%AA-2b931336a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  <a href="https://x.com/ShouNLAK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://u.wechat.com/kMnm_gMqeMv7rAu3bthEO-c" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="52" height="40" alt="wechat logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
-###
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=java" height="36" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="36" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="36" alt="Google" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="36" alt="Chrome" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="36" alt=".NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="36" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=discord" height="36" alt="Discord" />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="36" alt="Facebook" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="36" alt="Twitter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="36" alt="Oracle" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="36" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="36" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="36" alt="Windows" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShouNLAK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ShouNLAK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="140" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=ShouNLAK&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">🎮 Contribution Graph</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShouNLAK/ShouNLAK/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShouNLAK/ShouNLAK/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ShouNLAK/ShouNLAK/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://discord.com/users/ShouNLAK" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord" /></a>
+  <a href="http://facebook.com/ShouNLAK" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="Facebook" /></a>
+  <a href="mailto:ShouNLAK@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/ShouNLAK" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" /></a>
+  <a href="https://vn.linkedin.com/in/anh-khoa-nguy%E1%BB%85n-l%C3%AA-2b931336a" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" /></a>
+  <a href="https://x.com/ShouNLAK" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" /></a>
+  <a href="https://u.wechat.com/kMnm_gMqeMv7rAu3bthEO-c" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="40" alt="WeChat" /></a>
+  <a href="https://www.paypal.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="40" alt="PayPal" /></a>
+  <a href="https://telegram.org" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" alt="Telegram" /></a>
+  <a href="https://www.twitch.tv" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" alt="Twitch" /></a>
+  <a href="https://www.youtube.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" alt="YouTube" /></a>
+  <a href="https://myanimelist.net/profile/ShouNLAK" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/MyAnimeList.png" width="100" alt="MyAnimeList" /></a>
+</p>
+
+---
+
+<h3 align="center">🎵 Favorite Music from YouTube Music</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://music.youtube.com/watch?v=qdzaq8IOjuw&si=ny5RPF8mQ7NNOcac" target="_blank">
+        <img src="https://img.youtube.com/vi/qdzaq8IOjuw/hqdefault.jpg" alt="Seikai - RADWIMP" height="120" /><br>
+        <b>Seikai - RADWIMP</b>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://music.youtube.com/watch?v=lkBsQjXthT8&si=QhVNP0MsS7iJ21Jd" target="_blank">
+        <img src="https://img.youtube.com/vi/lkBsQjXthT8/hqdefault.jpg" alt="Heart Beat - Yoasobi" height="120" /><br>
+        <b>Heart Beat - Yoasobi</b>
+      </a>
+    </td>
+  </tr>
+</table>
