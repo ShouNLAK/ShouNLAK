@@ -108,16 +108,22 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://music.youtube.com/watch?v=qdzaq8IOjuw&si=ny5RPF8mQ7NNOcac" target="_blank">
         <img src="https://img.youtube.com/vi/qdzaq8IOjuw/hqdefault.jpg" alt="Seikai - RADWIMP" height="120" /><br>
         <b>Seikai - RADWIMP</b>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://music.youtube.com/watch?v=lkBsQjXthT8&si=QhVNP0MsS7iJ21Jd" target="_blank">
         <img src="https://img.youtube.com/vi/lkBsQjXthT8/hqdefault.jpg" alt="Heart Beat - Yoasobi" height="120" /><br>
         <b>Heart Beat - Yoasobi</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://music.youtube.com/watch?v=U6Gmj32FID0&si=xvtr9e-JkFoGJBq0" target="_blank">
+        <img src="https://img.youtube.com/vi/U6Gmj32FID0/hqdefault.jpg" alt="Tuki - HYURURIRAPAPPA" height="120" /><br>
+        <b>HYURURIRAPAPPA - tuki</b>
       </a>
     </td>
   </tr>
