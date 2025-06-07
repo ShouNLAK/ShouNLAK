@@ -1,7 +1,7 @@
 <br clear="both" />
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=435&lines=Welcome+to+ShouNLAK's+GitHub!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=9000&pause=1000&color=88F769&center=true&width=750&lines=Welcome+to+ShouNLAK's+GitHub+Profile!;%F0%9F%9A%80+I+hope+you+find+something+useful+here%E2%80%94let%E2%80%99s+build+something+amazing+together!+%F0%9F%9A%80;(%CB%98%EF%B8%B6%CB%98).%EF%BD%A1.%3A*%E2%99%A1" alt="Typing SVG" />
 </p>
 
 <div style="position: relative; text-align: center;">
