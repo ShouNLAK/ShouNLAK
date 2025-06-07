@@ -4,10 +4,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=435&lines=Welcome+to+ShouNLAK's+GitHub!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img height="220" src="https://th.bing.com/th/id/R.37721ff8b5855a2aaa8884df80056736?rik=SKewazvxRhZzNQ&pid=ImgRaw&r=0" alt="Additional Banner" />
-  <img height="220" src="https://i.pinimg.com/1200x/fc/26/9f/fc269f05d0b1f4666aef0140a939ea7c.jpg" alt="Profile Banner" />
-  <img height="220" src="https://th.bing.com/th/id/R.e54cd21f4828b6d7122250bd1a75bca9?rik=9VLwj1kBfciP5g&pid=ImgRaw&r=0" alt="Profile GIF" />
+<div style="position: relative; text-align: center;">
+  <!-- Facebook-style Banner -->
+  <img width="100%" style="max-width: 800px; height: auto;" src="https://i.pinimg.com/1200x/fc/26/9f/fc269f05d0b1f4666aef0140a939ea7c.jpg" alt="Profile Banner" />
 </div>
 
 ---
