@@ -1,130 +1,143 @@
-<br clear="both" />
-
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=9000&pause=1000&color=88F769&center=true&width=750&lines=Welcome+to+ShouNLAK's+GitHub+Profile!;%F0%9F%9A%80+I+hope+you+find+something+useful+here%E2%80%94let%E2%80%99s+build+something+amazing+together!+%F0%9F%9A%80;(%CB%98%EF%B8%B6%CB%98).%EF%BD%A1.%3A*%E2%99%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=9000&pause=1000&color=88F769&center=true&width=750&lines=Welcome+to+ShouNLAK's+GitHub+Profile!;%F0%9F%9A%80+I+hope+you+find+something+useful+here%E2%80%94let%E2%80%99s+build+something+amazing+together!+%F0%9F%9A%80;(%CB%98%EF%B8%B6%CB%98).%EF%BD%A1.%3A*%E2%99%A1" alt="Typing SVG" />
 </p>
 
-<div style="position: relative; text-align: center;">
-  <!-- Facebook-style Banner -->
-  <img width="100%" style="max-width: 800px; height: auto;" src="https://i.pinimg.com/1200x/fc/26/9f/fc269f05d0b1f4666aef0140a939ea7c.jpg" alt="Profile Banner" />
+<p align="center">
+  <img width="800" src="https://i.pinimg.com/1200x/fc/26/9f/fc269f05d0b1f4666aef0140a939ea7c.jpg" alt="Profile Banner" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ShouNLAK/count.svg?" alt="Profile Views"/>
+</p>
+
+---
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Hi there, I'm Nguyen Le Anh Khoa 👋</h2></summary>
+  </ul>
 </div>
 
----
-
-<h2 align="center">Hi there! 👋</h2>
-
 <p align="center">
-  <b>I'm Nguyen Le Anh Khoa</b>, a first-year Information Technology student at <a href="https://huit.edu.vn/" target="_blank">Ho Chi Minh City University of Industry and Trade (HUIT)</a>.<br>
-  🚀 Passionate about software engineering, always eager to learn and explore new technologies.<br>
-  📍 Based in Ho Chi Minh City, Vietnam.<br>
-  <a href="https://g.dev/ShouNLAK" target="_blank">Google for Developers profile</a><br>
-  <img src="https://profile-counter.glitch.me/ShouNLAK/count.svg?" alt="Profile Views" width="180" />
-  <br>
-  <b>👀 Profile Views</b>
+  I'm a first-year Information Technology student at <a href="https://huit.edu.vn/">HUIT</a> in Ho Chi Minh City, Vietnam. 🇻🇳<br/>
+  I'm passionate about software engineering and always eager to learn and explore new technologies. 🚀
 </p>
 
----
-
-<h3 align="center">ℹ️ More About Me</h3>
-
-<ul align="center">
-    <li>🌱 <b>Currently learning:</b> Data Structures, Algorithms, and Mobile App Development</li>
-  <li>💡 <b>Interests:</b> Open source, UI/UX design, and cloud computing</li>
-  <li>🗣️ <b>Languages:</b> Vietnamese (native), English (intermediate), Japanese (beginner)</li>
-  <li>🤝 <b>Looking to collaborate on:</b> Student projects, hackathons, science research</li>
-  <li>🎯 <b>2025 Goals:</b> Build an IPTV project, learn/practice new languages, master deep learning algorithms</li>
-</ul>
+- 🌱 **I’m currently learning:** Data Structures, Algorithms, and Mobile App Development.
+- 💡 **My interests include:** Open source, UI/UX design, and cloud computing.
+- 🤝 **I’m looking to collaborate on:** Student projects, hackathons, and science research.
+- 🎯 **2025 Goals:** Build an IPTV project, learn new languages, and master deep learning algorithms.
+- 🗣️ **Languages:** Vietnamese (Native), English (Intermediate), Japanese (Beginner).
+- ✨ **Fun Fact:** I'm a big fan of anime! You can find me on <a href="https://myanimelist.net/profile/ShouNLAK">MyAnimeList</a>.
 
 ---
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-
+<details>
+<summary align="center"><h3>🛠️ My Skills & Environment</h3></summary>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=java" height="36" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="36" alt="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="36" alt="Google" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="36" alt="Chrome" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="36" alt=".NET Core" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="36" alt="Canva" />
-  <img src="https://skillicons.dev/icons?i=discord" height="36" alt="Discord" />
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="36" alt="Facebook" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="36" alt="Twitter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="36" alt="Oracle" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="36" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="36" alt="Ubuntu" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="36" alt="Windows" />
+  <b>Coding Languages</b><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="Coding Languages"/></a>
 </p>
 
+<p align="center">
+  <b>Operating Systems</b><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,android" alt="Operating Systems"/></a>
+</p>
+
+<p align="center">
+  <b>Coding Environment & Tools</b><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,github,dotnet,oracle,figma,canva" alt="Coding Environment & Tools"/></a>
+</p>
+</details>
+
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<details>
+<summary align="center"><h3>📊 My GitHub Stats</h3></summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShouNLAK&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="140" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShouNLAK&layout=compact&theme=dracula&hide_border=false" height="140" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=ShouNLAK&theme=dracula&hide_border=false" height="140" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShouNLAK&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+</details>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShouNLAK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="Top Languages" />
+---
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table align="center" style="width:100%">
+  <tr align="center">
+    <td width="50%" style="padding:10px">
+      <h4 align="center">BST vs. TreeSet Comparison</h4>
+      <p>A Java project to analyze and compare the performance of a custom-built Binary Search Tree (BST) against Java's standard <code>TreeSet</code> implementation for various operations.</p>
+      <p><b>Key Features:</b> Performance analysis, custom data structures, and comparative study.</p>
+      <p align="center">
+        <a href="https://github.com/ShouNLAK/BST-TreeSet-Comparison"><b>View on GitHub</b></a>
+      </p>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ShouNLAK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="140" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=ShouNLAK&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="GitHub Streak" />
+    <td width="50%" style="padding:10px">
+      <h4 align="center">IPTV Online Checker</h4>
+      <p>A C / C++ script to check the online status of channels within an IPTV playlist (.m3u file). It efficiently validates URLs to filter out offline streams.</p>
+      <p><b>Key Features:</b> URL validation, multithreading for efficiency, and stream filtering.</p>
+      <p align="center">
+        <a href="https://github.com/ShouNLAK/Check-Online-IPTV"><b>View on GitHub</b></a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+<details>
+<summary align="center"><h3>🎵 Favorite Music</h3></summary>
+<p align="center">Here are a few songs I've been enjoying recently.</p>
 
-<p align="center">
-  <a href="https://discord.com/users/ShouNLAK" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord" /></a>
-  <a href="http://facebook.com/ShouNLAK" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="Facebook" /></a>
-  <a href="mailto:ShouNLAK@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" /></a>
-  <a href="https://www.instagram.com/ShouNLAK" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" /></a>
-  <a href="https://vn.linkedin.com/in/anh-khoa-nguy%E1%BB%85n-l%C3%AA-2b931336a" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" /></a>
-  <a href="https://x.com/ShouNLAK" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" /></a>
-  <a href="https://u.wechat.com/kMnm_gMqeMv7rAu3bthEO-c" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="40" alt="WeChat" /></a>
-  <a href="https://www.paypal.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="40" alt="PayPal" /></a>
-  <a href="https://telegram.org" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" alt="Telegram" /></a>
-  <a href="https://www.twitch.tv" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" alt="Twitch" /></a>
-  <a href="https://www.youtube.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" alt="YouTube" /></a>
-  <a href="https://myanimelist.net/profile/ShouNLAK" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/MyAnimeList.png" width="100" alt="MyAnimeList" /></a>
-</p>
-
----
-
-<h3 align="center">🎵 Favorite Music from YouTube Music</h3>
-
-<table align="center">
+<table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="center" width="33%">
-      <a href="https://music.youtube.com/watch?v=qdzaq8IOjuw&si=ny5RPF8mQ7NNOcac" target="_blank">
-        <img src="https://img.youtube.com/vi/qdzaq8IOjuw/hqdefault.jpg" alt="Seikai - RADWIMP" height="120" /><br>
-        <b>Seikai - RADWIMP</b>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=k9L6goS6pT8">
+        <img src="https://img.youtube.com/vi/qdzaq8IOjuw/hqdefault.jpg" width="200" alt="Seikai - RADWIMPS"><br>
+        <b>Seikai</b><br>by RADWIMPS
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://music.youtube.com/watch?v=lkBsQjXthT8&si=QhVNP0MsS7iJ21Jd" target="_blank">
-        <img src="https://img.youtube.com/vi/lkBsQjXthT8/hqdefault.jpg" alt="Heart Beat - Yoasobi" height="120" /><br>
-        <b>Heart Beat - Yoasobi</b>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=j1hft9W_i7k">
+        <img src="https://lh3.googleusercontent.com/6PrlhnplHrl69oMEZG8uSpSbdseCCkXmF2luIjImmK3lPnshXpWom5DzdDB89kra_OH27ICYoy4Q_CSz=w544-h544-l90-rj" width="200" alt="HEART BEAT - YOASOBI"><br>
+        <b>HEART BEAT</b><br>by YOASOBI
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://music.youtube.com/watch?v=U6Gmj32FID0&si=xvtr9e-JkFoGJBq0" target="_blank">
-        <img src="https://img.youtube.com/vi/U6Gmj32FID0/hqdefault.jpg" alt="Tuki - HYURURIRAPAPPA" height="120" /><br>
-        <b>HYURURIRAPAPPA - tuki</b>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=A_g_6YvS-sE">
+        <img src="https://img.youtube.com/vi/U6Gmj32FID0/hqdefault.jpg" width="200" alt="HYURURIRAPAPPA - tuki."><br>
+        <b>HYURURIRAPAPPA</b><br>by tuki.
       </a>
     </td>
   </tr>
 </table>
+</details>
+
+---
+
+<h3 align="center">🌐 Social Media & Contact</h3>
+
+<p align="center">
+  <a href="mailto:ShouNLAK@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://vn.linkedin.com/in/anh-khoa-nguy%E1%BB%85n-l%C3%AA-2b931336a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://g.dev/ShouNLAK"><img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="http://facebook.com/ShouNLAK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://discord.com/users/ShouNLAK"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://x.com/ShouNLAK"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+<h3 align="center">🖊️ Leave a Message</h3>
+
+<p align="center">
+  Feel free to leave a comment, ask a question, or just say hi!
+  <br/><br/>
+  <a href="https://github.com/ShouNLAK/ShouNLAK/issues/new">
+    <img alt="Leave a message" src="https://img.shields.io/badge/Leave_a_Message_Here-0078D4?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
