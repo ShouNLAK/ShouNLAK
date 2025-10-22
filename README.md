@@ -239,7 +239,7 @@
 <h2 align="center">📖 Blog & Resources</h2>
 
 <p align="center" style="margin: 15px 0; color: #d1d5da;">
-  Check out my <a href=" https://shounlak.github.io/Profile/" style="color: #00D9FF;"><strong>Blog website</strong></a> where I share in-depth content:
+  Check out my <a href="https://shounlak.github.io/Profile/" style="color: #00D9FF;"><strong>Blog website</strong></a> where I share in-depth content:
 </p>
 
 <div align="center">
