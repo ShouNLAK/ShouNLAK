@@ -230,30 +230,9 @@
 
 <h2 align="center">🏆 Achievements & Highlights</h2>
 
-<div align="center" style="margin: 20px 0;">
-  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; max-width: 1000px; margin: 0 auto;">
-    <div style="padding: 20px; border: 2px solid #00D9FF30; border-radius: 10px; background: linear-gradient(135deg, #00D9FF15 0%, transparent 100%); transition: all 0.3s;">
-      <div style="font-size: 28px; margin-bottom: 10px;">📚</div>
-      <h4 style="color: #00D9FF; margin: 10px 0;">12+ Repos</h4>
-      <p style="font-size: 12px; color: #8b949e;">Active projects & learning</p>
-    </div>
-    <div style="padding: 20px; border: 2px solid #00D9FF30; border-radius: 10px; background: linear-gradient(135deg, #00D9FF15 0%, transparent 100%); transition: all 0.3s;">
-      <div style="font-size: 28px; margin-bottom: 10px;">💻</div>
-      <h4 style="color: #00D9FF; margin: 10px 0;">Full-Stack</h4>
-      <p style="font-size: 12px; color: #8b949e;">Backend to frontend skills</p>
-    </div>
-    <div style="padding: 20px; border: 2px solid #00D9FF30; border-radius: 10px; background: linear-gradient(135deg, #00D9FF15 0%, transparent 100%); transition: all 0.3s;">
-      <div style="font-size: 28px; margin-bottom: 10px;">🎯</div>
-      <h4 style="color: #00D9FF; margin: 10px 0;">Problem Solver</h4>
-      <p style="font-size: 12px; color: #8b949e;">Algorithm & system design</p>
-    </div>
-    <div style="padding: 20px; border: 2px solid #00D9FF30; border-radius: 10px; background: linear-gradient(135deg, #00D9FF15 0%, transparent 100%); transition: all 0.3s;">
-      <div style="font-size: 28px; margin-bottom: 10px;">🚀</div>
-      <h4 style="color: #00D9FF; margin: 10px 0;">Open Source</h4>
-      <p style="font-size: 12px; color: #8b949e;">Community contributor</p>
-    </div>
-  </div>
-</div>
+| 📚 **12+ Repos** | 💻 **Full-Stack** | 🎯 **Problem Solver** | 🚀 **Open Source** |
+|---|---|---|---|
+| Active projects & learning | Backend to frontend skills | Algorithm & system design | Community contributor |
 
 ---
 
