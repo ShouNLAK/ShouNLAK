@@ -195,7 +195,7 @@ Status: ✅ Completed
 **Explore 12+ repositories covering:**
 
 - **Web Development** - Full-stack applications
-- **Algorithms** - LeetCode solutions & tutorials
+- **Algorithms** - Comparison between Languages
 - **System Programming** - Low-level utilities
 - **Data Science** - Analysis & visualization
 - **Tools** - Developer productivity enhancers
