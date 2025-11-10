@@ -138,7 +138,7 @@ Status: ✅ Live Production
 - 📈 What-if scenario analyzer & goal planning
 - 💾 CSV import/export with autosave
 - 📊 Visual grade analytics & reports
-- 🎨 Modern, responsive UI
+- 🔒 Security upgrade for Database
 
 **Impact:** Used by 100+ HUIT students
 
@@ -382,7 +382,7 @@ const opportunities = {
 ```text
 💻 Programming       ████████████████████░░░░░  82%
 📚 Learning          ██████████████░░░░░░░░░░░  56%
-🎯 Problem Solving   ████████████████░░░░░░░░░░░░  68%
+🎯 Problem Solving   ████████████████░░░░░░░░░  68%
 ✍️  Writing          █████░░░░░░░░░░░░░░░░░░░░  22%
 ```
 
