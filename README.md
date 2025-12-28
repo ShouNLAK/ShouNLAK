@@ -11,6 +11,11 @@
   <a href="http://g.dev/ShouNLAK"><img src="https://img.shields.io/badge/🔗_Google_Dev-00D9FF?style=for-the-badge&logo=google&logoColor=black" alt="Google Dev"/></a>
 </p>
 
+<p>
+  <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/169959169"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/169959169" alt="Google Certificate for University Student"></a>
+  <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/169958279"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/169958279" alt="Google Certificate for Educator"></a>
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ShouNLAK&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
