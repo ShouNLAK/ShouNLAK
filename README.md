@@ -54,10 +54,10 @@ My current goal is to strengthen end-to-end software lifecycle capabilities, fro
 
 ## Selected Engineering Work
 
-| Project | Problem Space | Technical Highlights | Repository |
+| Project | Problem Space | Technical Highlights | Repository / Official Deployment |
 |---------|---------------|----------------------|------------|
 | **HUIT-Schedule** | Pre-registration class scheduling tool for students| Single-paged website with official schedule from university | [ShouNLAK/HUIT-Schedule](https://ShouNLAK.github.io/HUIT-Schedule) |
-| **HUIT-Score-Website** | Student lookup and schedule retrieval | Single-page web client with serverless API integration and production deployment | [ShouNLAK/HUIT-Score](https://ShouNLAK-score.vercel.app) |
+| **HUIT-Score** | Student lookup and schedule retrieval | Single-page web client with serverless API integration and production deployment | [ShouNLAK/HUIT-Score](https://ShouNLAK-score.vercel.app) |
 | **Documents-To-Sequences-Python** | NLP preprocessing and vectorization pipeline | Configurable text processing, sequence encoding, BoW/TF-IDF outputs, Tkinter dashboard | [ShouNLAK/Documents-To-Sequences-Python](https://github.com/ShouNLAK/Documents-To-Sequences-Python) |
 | **Check-Online-IPTV** | High-throughput stream validation | Multi-threaded scanner in C, URL diagnostics, playlist filtering, structured logs | [ShouNLAK/Check-Online-IPTV](https://github.com/ShouNLAK/Check-Online-IPTV) |
 | **BST-TreeSet-Comparison** | Data structure benchmarking | Custom BST vs Java TreeSet benchmarks with repeatable measurement workflow | [ShouNLAK/BST-TreeSet-Comparison](https://github.com/ShouNLAK/BST-TreeSet-Comparison) |
