@@ -1,5 +1,4 @@
 <div align="center">
-<div align="center">
 
   <h1>Nguyen Le Anh Khoa (ShouNLAK)</h1>
   <p><b>Software Engineering Student | Full-Stack Developer | Applied NLP Builder</b></p>
