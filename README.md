@@ -1,4 +1,5 @@
 <div align="center">
+<div align="center">
 
   <h1>Nguyen Le Anh Khoa (ShouNLAK)</h1>
   <p><b>Software Engineering Student | Full-Stack Developer | Applied NLP Builder</b></p>
@@ -50,18 +51,18 @@ My current goal is to strengthen end-to-end software lifecycle capabilities, fro
 
 ## 🎓 Education & Academic Excellence
 
-**B.Sc. in Information Technology (in progress)**
+**B.Sc. in Information Technology (in progress - currently in 3rd year)**
 *Ho Chi Minh City University of Industry and Trade (HUIT)*
 - **Cumulative GPA:** 9.01/10 (3.86/4.0)
 
 ### 🏆 Honors & Awards
-- **Triple Crown Scholar:** Awarded University Scholarships for 3 consecutive terms (including 2 full-term scholarships).
-- **Student of the Year:** Honored as the **"Best Student in the IT Faculty"** for the 2025–2026 academic year.
+- **Triple Crown Scholar:** Awarded University Scholarships for 3 consecutive terms (including 2-in-a-row full-term scholarships).
+- **Student of the Year:** Honored as the **"Best Student Result"** for the 2025–2026 academic year.
 - **"Student of 5 Merits" (Sinh viên 5 tốt):** Certified by the Vietnam Student Association in the "Study" category (soft copy).
 - **Design Finalist:** Advanced to the inner round of the **F-Race (Micromouse)** design competition hosted by the University of Science, VNU-HCM.
 
 ### 🌟 Community Impact
-- **HUIT Student Support Project:** Developed and launched a community portal dedicated to HUIT students (scheduling, student lookups, and training points tracking), successfully serving over **540 unique students**.
+- **HUIT Student Support Project:** Developed and launched a community portal dedicated to HUIT students (scheduling, student lookups, and training points tracking), successfully serving over **540 unique students (and still counting!)**.
 
 ---
 
@@ -85,10 +86,10 @@ My current goal is to strengthen end-to-end software lifecycle capabilities, fro
 
 | Area | Technologies |
 |------|--------------|
-| **Languages** | C, C++, C#, Java, Python, Dart, HTML, CSS, JavaScript, TypeScript, SQL (T-SQL) |
+| **Languages** | C, C++, C#, Java, Python, Dart, Kotlin, HTML, CSS, JavaScript, TypeScript, SQL (T-SQL) |
 | **Frameworks** | Flutter, MVC (Web), .NET Framework, WPF (MVVM), Node.js |
 | **Data** | Microsoft SQL Server, CSV/JSON processing, TF-IDF/BoW pipelines |
-| **Tooling** | Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA, Vercel |
+| **Tooling** | Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA, Android Studio, Vercel |
 
 ---
 
