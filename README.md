@@ -96,7 +96,7 @@ My current goal is to strengthen end-to-end software lifecycle capabilities, fro
 
 | Project | Problem Space | Technical Highlights | Links |
 |---------|---------------|----------------------|-------|
-| **[HUIT Student Portal](https://student-huit.vercel.app/)** | Secure student lookup and academic planning | Web-based student portal designed with high security and privacy considerations | 🔗 [Website](https://student-huit.vercel.app/) |
+| **[HUIT Student Portal (Maintenance)](https://student-huit.vercel.app/)** | Secure student lookup and academic planning | Web-based student portal designed with high security and privacy considerations | 🔗 [Website](https://student-huit.vercel.app/) |
 | **[HUIT-Schedule](https://shounlak.github.io/HUIT-Schedule/)** | Course scheduling and timetable optimization | Interactive schedule generation tool to optimize student timetables | 🔗 [Website](https://shounlak.github.io/HUIT-Schedule/) / [Repo](https://github.com/ShouNLAK/HUIT-Schedule) |
 | **[Documents-To-Sequences-Python](https://github.com/ShouNLAK/Documents-To-Sequences-Python)** | NLP preprocessing and vectorization pipeline | Configurable text processing, sequence encoding, BoW/TF-IDF outputs, Tkinter dashboard | 🔗 [Repo](https://github.com/ShouNLAK/Documents-To-Sequences-Python) |
 | **[Check-Online-IPTV](https://github.com/ShouNLAK/Check-Online-IPTV)** | High-throughput stream validation | Multi-threaded scanner in C, URL diagnostics, playlist filtering, structured logs | 🔗 [Repo](https://github.com/ShouNLAK/Check-Online-IPTV) |
